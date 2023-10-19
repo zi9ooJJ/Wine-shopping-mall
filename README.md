@@ -153,7 +153,7 @@ _MZ세대를 겨냥한 온라인 와인 쇼핑몰_
 1. 프로젝트 클론
 
 ```bash
-git clone git@kdt-gitlab.elice.io:ai_track/class_06/web_project/team04/web-project.git
+git clone https://github.com/zi9ooJJ/Wine-shopping-mall.git
 ```
 
 <br/>

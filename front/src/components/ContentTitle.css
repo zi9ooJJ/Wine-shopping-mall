@@ -1,0 +1,10 @@
+.content-title-container {
+    width: 100%;
+    text-align: left;
+}
+
+.content-title {
+    font-family: 'Noto Sans KR';
+    font-size: 24px;
+    font-weight: bold;
+}

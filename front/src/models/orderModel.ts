@@ -1,0 +1,29 @@
+export interface OrderModel {
+  _id: string;
+  productId: string;
+  ordererId: string;
+  address: string;
+  quantity: number;
+  status: string;
+  totalPrice: number;
+  createdAt: Date;
+  updatedAt: Date;
+}
+// _id
+// 63e08ae7a804533ffb87c085
+// productId
+// 63dd04a0299c12a5079bba39
+// ordererId
+// 63dc9a45ed64743a0aa202df
+// address
+// "Sadang2"
+// quantity
+// 3
+// status
+// "pending"
+// totalPrice
+// 170000
+// createdAt
+// 2023-02-06T05:06:47.824+00:00
+// updatedAt
+// 2023-02-06T05:22:48.702+00:00
